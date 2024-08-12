@@ -1,0 +1,118 @@
+/* footer */
+footer {
+  width: 1920px;
+  background-color: #393333;
+  padding: 70px 300px 51px;
+  display: flex;
+  justify-content: space-between;
+}
+/* left div */
+.mailto_a {
+  font-family: Century Gothic;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 22.07px;
+  text-align: left;
+  color: #ffffff;
+}
+.mailto_span {
+  font-family: Century Gothic;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 22.07px;
+  text-align: left;
+  color: #ffcf5c;
+}
+.number {
+  margin-block: 15px;
+}
+.tel {
+  font-family: Century Gothic;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 22.07px;
+  text-align: left;
+  color: #ffffff;
+}
+.top_box_text {
+  font-family: Century Gothic;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 22.07px;
+  text-align: left;
+  color: #ffffff;
+}
+.icons {
+  width: 180px;
+  margin-block: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+.fa-instagram,
+.fa-telegram,
+.fa-facebook,
+.fa-vk,
+.fa-youtube {
+  font-size: 20px;
+  color: #ffffff;
+}
+/* middle div */
+.middle_div_h2 {
+  font-family: RadiateSans-Regular;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 26.71px;
+  text-align: left;
+  color: #ffcf5c;
+  margin-bottom: 10px;
+}
+.middle_ul {
+  height: 110px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.middle_div_p {
+  font-family: Century Gothic;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19.62px;
+  text-align: left;
+  color: #ffffff;
+}
+/* right div */
+.right_div_h2 {
+  font-family: RadiateSans-Regular;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 26.71px;
+  text-align: left;
+  color: #ffcf5c;
+  margin-bottom: 10px;
+}
+.right_div_ul {
+  height: 140px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.right_div_p {
+  font-family: Century Gothic;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19.62px;
+  text-align: left;
+  color: #ffffff;
+}
+.footer_title {
+  font-family: RadiateSans-Regular;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 26.71px;
+  text-align: left;
+  color: #ffcf5c;
+  display: inline-block;
+}
+.footer_div {
+  margin-top: 40px;
+}
